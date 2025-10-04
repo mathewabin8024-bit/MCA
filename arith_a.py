@@ -1,6 +1,0 @@
-a=int(input("enter the first number"))
-b=int(input("enter the second number"))
-print("sum",a+b)
-print("sub",a-b)
-print("mul",a*b)
-print("div",a/b)
